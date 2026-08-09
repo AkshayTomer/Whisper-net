@@ -61,11 +61,7 @@ WhisperNet
 
 ```bash
 git clone https://github.com/AkshayTomer/Whisper-net.git
-
-cd whisper_net_ivth_project
-
 cd Whisper-net
-28af9cdf7e5108b764173dbb5bccfedbc432df2c
 ```
 
 ### 2. Install frontend dependencies
