@@ -6,30 +6,30 @@ It is a web-based application that combines a user-friendly frontend with backen
 
 ## Features
 
-* Clean and responsive user interface
-* Multiple pages and modules
-* Interactive dashboard and components
-* Education module
-* Backend API integration
-* Data visualization
-* Map-based features
+- Clean and responsive user interface
+- Multiple pages and modules
+- Interactive dashboard and components
+- Education module
+- Backend API integration
+- Data visualization
+- Map-based features
 
 ## Technologies Used
 
 ### Frontend
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
 ### Backend
 
-* Node.js
-* Express.js
-* Python
-* Flask
-* MATLAB
+- Node.js
+- Express.js
+- Python
+- Flask
+- MATLAB
 
 ## My Role
 
@@ -37,11 +37,11 @@ I worked as a **Frontend Developer** in the project.
 
 My main responsibilities were:
 
-* Designing the user interface
-* Developing frontend pages and components
-* Making the interface responsive
-* Connecting frontend pages with backend APIs
-* Improving the overall user experience
+- Designing the user interface
+- Developing frontend pages and components
+- Making the interface responsive
+- Connecting frontend pages with backend APIs
+- Improving the overall user experience
 
 ## Project Structure
 
@@ -60,7 +60,7 @@ WhisperNet
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aaravcod/whisper_net_ivth_project.git
+git clone https://github.com/AkshayTomer/Whisper-net.git
 cd whisper_net_ivth_project
 ```
 
