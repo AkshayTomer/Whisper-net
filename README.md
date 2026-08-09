@@ -60,8 +60,8 @@ WhisperNet
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aaravcod/whisper_net_ivth_project.git
-cd whisper_net_ivth_project
+git clone https://github.com/AkshayTomer/Whisper-net.git
+cd Whisper-net
 ```
 
 ### 2. Install frontend dependencies
