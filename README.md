@@ -1,8 +1,10 @@
 # WhisperNet
 
-WhisperNet is our **final-year academic project** developed as a group.
+About the Project
 
-It is a web-based application that combines a user-friendly frontend with backend services to provide its core functionality.
+WhisperNet is a final-year academic project that explores ultrasonic signal-based communication through a web-based application. It provides dedicated modules for education, healthcare, and emergency communication, combining a responsive Next.js frontend with Node.js/Express backend services and Python/MATLAB-based signal processing.
+
+The project aims to demonstrate how ultrasonic communication can be explored as an alternative communication approach for different real-world scenarios.
 
 ## Features
 
