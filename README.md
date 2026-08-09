@@ -46,17 +46,13 @@ My main responsibilities were:
 ## Project Structure
 
 ```text
-Whisper-net/
-├── frontend/
-├── backend/
-│   ├── matlab-service/
-│   ├── matlab/
-│   ├── handlers/
-│   ├── routes/
-│   └── services/
-├── package.json
-├── package-lock.json
-└── README.md
+WhisperNet
+│
+├── frontend     → Next.js frontend
+│
+├── backend      → Node.js backend
+│
+└── matlab-service → Python/MATLAB service
 ```
 
 ## How to Run
