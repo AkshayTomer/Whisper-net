@@ -96,9 +96,9 @@ http://localhost:3000
 
 ## Academic Project
 
-**Project:** WhisperNet
-**Type:** Final-Year Academic Project
-**Team:** Group Project
+**Project:** WhisperNet  
+**Type:** Final-Year Academic Project  
+**Team:** Group Project  
 **Role:** Frontend Developer
 
 This project helped us gain practical experience in frontend development, API integration, backend communication, Git/GitHub, and full-stack application development.
